@@ -1,0 +1,1 @@
+sudo ./packcap $1
